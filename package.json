@@ -1,0 +1,24 @@
+{
+  "name": "testing-my-vm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravtiwari2509/testing-my-vm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gauravtiwari2509/testing-my-vm/issues"
+  },
+  "homepage": "https://github.com/gauravtiwari2509/testing-my-vm#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
